@@ -14,3 +14,4 @@ Number             | Title                                                    | 
 [1](tip-0001.md)  | TIP Purpose and Guidelines | Robert Konsdorf      | Informational  | Draft
 [2](tip-0002.md)  |  A Bounty System for Slicing the Telos Founders Rewards Pool Proportionally Amongst Contributors | Robert Konsdorf  | Informational | Draft
 [3](tip-0003.md)  | Establishment of common-use snapshots for airgrabs | Jesse Shulman | Informational | Draft
+[4](tip-0004.md)  | Premium names and name squatting prevention | Josep Rosich | Informational | Draft
